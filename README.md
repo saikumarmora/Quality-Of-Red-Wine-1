@@ -27,3 +27,14 @@ Input variables (based on physicochemical tests):
    Output variable (based on sensory data): 
    
    12 - quality (score between 0 and 10)
+
+collab link : https://colab.research.google.com/drive/1C4aJFhLdhRs8CFonhsJ8w6tkfIQzEyPv?usp=sharing
+
+ppt link : https://docs.google.com/presentation/d/1VtnYlDPWT0xCE1QQGTf0oCv4cQ9Mg9xQ/edit?usp=sharing&ouid=112259884849854760855&rtpof=true&sd=true
+
+
+
+
+
+
+
